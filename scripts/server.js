@@ -1,0 +1,1 @@
+// HTTP server with one API endpoint /api/resports. Serves the education.json file created by the parsing script

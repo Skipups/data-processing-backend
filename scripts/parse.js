@@ -1,0 +1,1 @@
+//reads CSV files from teh raw folder and converts it to JSON, then writes it to JSON files in the processed folder
